@@ -1,6 +1,10 @@
 {
-  "version": "1.2.6",
-  "url": "https://github.com/Siupencjusz/streamly-updates/releases/download/v1.2.6/Streamly-Setup-1.2.6.exe",
-  "notes": "Miniodtwarzacz, lepszy widok kolejki",
-  "sha256": "28413a4bf946edd8e4f3f64c2a0258f72aa1d5b902aa60212d2bbccd0d0757db"
+  "version": "1.2.7",
+  "url": "https://github.com/Siupencjusz/streamly-updates/releases/download/v1.2.7/Streamly-Setup-1.2.7.exe",
+  "notes": "Ustawienia — nowa zakładka (przycisk na stronie głównej i na lewym pasku) zbiera w jednym miejscu: konto i synchronizację (przeniesione z dymka), aktualizacje oraz przeglądarkę.
+Przeglądarka — zintegrowana z aplikacją (bez osobnego okna), zajmuje teraz cały ekran zamiast 1/3. Karty (Ctrl+T / Ctrl+W / Ctrl+Tab), zakładki (gwiazdka na pasku), wybór wyszukiwarki (domyślnie Brave).
+Dane przeglądarki na koncie — otwarte karty, zakładki, wyszukiwarka i logowania na stronach (cookies) jadą na konto: po zalogowaniu na innym komputerze wszystko wraca, bez ponownego logowania. Lokalnie logowania przeżywają restart (trwała partycja persist:browser).
+Telefon (Android) — nowy panel w Ustawieniach: zdalne sterowanie apką mobilną (play/pauza, utwory, głośność, przewijanie, „Wyślij kolejkę na telefon").
+Poprawka PiP — powrót z okienka PiP nie resetuje już materiału do zera.",
+  "sha256": "18b3dffd8b3659bffbec59e24f6af5f2105f85ec54b1b695d1f6258cd5cc8cf7"
 }
