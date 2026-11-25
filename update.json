@@ -1,6 +1,6 @@
 {
-  "version": "1.2.9",
-  "url": "https://github.com/Siupencjusz/streamly-updates/releases/download/v1.2.9/Streamly-Setup-1.2.9.exe",
-  "notes": "Przeglądarka poprawiona, nowa wyszukiwarka, usunięto Protona",
-  "sha256": "a3e7e9865557f4ae40245e377b85ce8ffe5559649e4575b3a6d4d1c8fc16dbab"
+  "version": "1.3.0",
+  "url": "https://github.com/Siupencjusz/streamly-updates/releases/download/v1.3.0/Streamly-Setup-1.3.0.exe",
+  "notes": "Sidebar przeglądarki rozciągalny, naprawiono bug z wczytywaniem strony głównej, dodano zamykanie miniodtwarzacza",
+  "sha256": "7B082A90BB588CC590023BFFC6225CE17E52536296A232A9C778C123B66A23DF"
 }
