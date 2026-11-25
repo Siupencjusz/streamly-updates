@@ -1,6 +1,6 @@
 {
-  "version": "1.2.8",
-  "url": "https://github.com/Siupencjusz/streamly-updates/releases/download/v1.2.8/Streamly-Setup-1.2.8.exe",
-  "notes": "Odtwarzacz à la Spotify: większe przyciski (play 52 px, ⏮/⏭ 42 px), pauza i przewijanie wyżej, +10s/−10s jako ikony strzałek kołowych z „10”. Tekst utworu jak w Spotify — chip „Tekst” w lewym górnym rogu odtwarzacza (w tym samym stylu co napisy/jakość/pobierz) pokazuje zsynchronizowaną karaoke na tle rozmazanej okładki (LRCLIB, klik w linijkę = przewinięcie; fallback: zwykły tekst lub komunikat). Chip artysty pod odtwarzaczem — awatar z fioletowym pierścieniem + „Obserwuj”; pasek ma stałą wysokość, więc nic nie nachodzi na okładkę. Strona główna: miniatura = gra w miniodtwarzaczu, przycisk play = gra i otwiera główny odtwarzacz. Przeglądarka ~25 px wyższa: podpowiedzi Google na żywo pod paskiem adresu, wbudowany adblock jako zielona ikona-tarcza w toolbarze obok adresu (klik = włącz/wyłącz, lista ~150 domen — bez rozszerzeń) i karta darmowego VPN (Proton VPN Free — otwiera przeglądarkę systemową, bo pobieranie wewnątrz webview nie działa).",
-  "sha256": "6C12A6F401463D09C4DC6B5ECC7D5269FEE433C280A40210135E86904238886E"
+  "version": "1.2.9",
+  "url": "https://github.com/Siupencjusz/streamly-updates/releases/download/v1.2.9/Streamly-Setup-1.2.9.exe",
+  "notes": "Przeglądarka poprawiona, nowa wyszukiwarka, usunięto Protona",
+  "sha256": "a3e7e9865557f4ae40245e377b85ce8ffe5559649e4575b3a6d4d1c8fc16dbab"
 }
