@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/Siupencjusz/streamly-updates/releases/download/v1.3.0/Streamly-Setup-1.3.0.exe",
-  "notes": "Sidebar przeglądarki rozciągalny, naprawiono bug z wczytywaniem strony głównej, dodano zamykanie miniodtwarzacza",
-  "sha256": "7B082A90BB588CC590023BFFC6225CE17E52536296A232A9C778C123B66A23DF"
+  "version": "1.3.1",
+  "url": "https://github.com/Siupencjusz/streamly-updates/releases/download/v1.3.1/Streamly-Setup-1.3.1.exe",
+  "notes": "Addony w przegladarce, włącz/wyłącz kolejke/ naprawiono miniodtwarzacz wideo/ dodano kategorie na czasie",
+  "sha256": "00c3dbacc97df91d065c933330be9a2f374d2bdd1c6eec49585e99739062f6cd"
 }
